@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lick.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lick attack0000" x="0" y="0" width="1197" height="1653" frameX="0" frameY="-69" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0001" x="1197" y="0" width="2014" height="1639" frameX="-213" frameY="-83" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0002" x="1197" y="0" width="2014" height="1639" frameX="-213" frameY="-83" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0003" x="3211" y="0" width="2008" height="1689" frameX="-262" frameY="-33" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0004" x="3211" y="0" width="2008" height="1689" frameX="-262" frameY="-33" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0005" x="5219" y="0" width="2012" height="1716" frameX="-276" frameY="-6" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0006" x="5219" y="0" width="2012" height="1716" frameX="-276" frameY="-6" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0007" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0008" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0009" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0010" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0011" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0012" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0013" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0014" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0015" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0016" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0017" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0018" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0019" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0020" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0021" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0022" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0023" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0024" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0025" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0026" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0027" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0028" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0029" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0030" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0031" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0032" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0033" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0034" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0035" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0036" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick attack0037" x="0" y="1716" width="2013" height="1722" frameX="-279" frameY="0" frameWidth="2292" frameHeight="1722"/>
+	<SubTexture name="Lick down0000" x="2013" y="1716" width="1058" height="1216" frameX="-3" frameY="-14" frameWidth="1063" frameHeight="1231"/>
+	<SubTexture name="Lick down0001" x="2013" y="1716" width="1058" height="1216" frameX="-3" frameY="-14" frameWidth="1063" frameHeight="1231"/>
+	<SubTexture name="Lick down0002" x="3071" y="1716" width="1058" height="1221" frameX="-1" frameY="-9" frameWidth="1063" frameHeight="1231"/>
+	<SubTexture name="Lick down0003" x="3071" y="1716" width="1058" height="1221" frameX="-1" frameY="-9" frameWidth="1063" frameHeight="1231"/>
+	<SubTexture name="Lick down0004" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0005" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0006" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0007" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0008" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0009" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0010" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0011" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0012" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0013" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0014" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0015" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0016" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0017" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0018" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0019" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick down0020" x="4129" y="1716" width="1063" height="1231"/>
+	<SubTexture name="Lick idle dance0000" x="5192" y="1716" width="865" height="1590" frameX="-1" frameY="-11" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0001" x="5192" y="1716" width="865" height="1590" frameX="-1" frameY="-11" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0002" x="6057" y="1716" width="865" height="1600" frameX="0" frameY="-1" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0003" x="6057" y="1716" width="865" height="1600" frameX="0" frameY="-1" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0004" x="6922" y="1716" width="829" height="1601" frameX="-4" frameY="0" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0005" x="6922" y="1716" width="829" height="1601" frameX="-4" frameY="0" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0006" x="0" y="3438" width="785" height="1601" frameX="-6" frameY="-1" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0007" x="0" y="3438" width="785" height="1601" frameX="-6" frameY="-1" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0008" x="785" y="3438" width="783" height="1600" frameX="-2" frameY="-2" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0009" x="785" y="3438" width="783" height="1600" frameX="-2" frameY="-2" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0010" x="785" y="3438" width="783" height="1600" frameX="-2" frameY="-2" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0011" x="785" y="3438" width="783" height="1600" frameX="-2" frameY="-2" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0012" x="785" y="3438" width="783" height="1600" frameX="-2" frameY="-2" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0013" x="785" y="3438" width="783" height="1600" frameX="-2" frameY="-2" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0014" x="785" y="3438" width="783" height="1600" frameX="-2" frameY="-2" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0015" x="785" y="3438" width="783" height="1600" frameX="-2" frameY="-2" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0016" x="785" y="3438" width="783" height="1600" frameX="-2" frameY="-2" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0017" x="785" y="3438" width="783" height="1600" frameX="-2" frameY="-2" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0018" x="785" y="3438" width="783" height="1600" frameX="-2" frameY="-2" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0019" x="785" y="3438" width="783" height="1600" frameX="-2" frameY="-2" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick idle dance0020" x="785" y="3438" width="783" height="1600" frameX="-2" frameY="-2" frameWidth="866" frameHeight="1602"/>
+	<SubTexture name="Lick left0000" x="1568" y="3438" width="1205" height="1569" frameX="0" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0001" x="1568" y="3438" width="1205" height="1569" frameX="0" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0002" x="2773" y="3438" width="1213" height="1569" frameX="-14" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0003" x="2773" y="3438" width="1213" height="1569" frameX="-14" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0004" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0005" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0006" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0007" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0008" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0009" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0010" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0011" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0012" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0013" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0014" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0015" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0016" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0017" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0018" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick left0019" x="3986" y="3438" width="1218" height="1569" frameX="-16" frameY="0" frameWidth="1234" frameHeight="1569"/>
+	<SubTexture name="Lick right0000" x="5204" y="3438" width="1043" height="1362" frameX="-31" frameY="0" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0001" x="5204" y="3438" width="1043" height="1362" frameX="-31" frameY="0" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0002" x="6247" y="3438" width="1035" height="1352" frameX="-6" frameY="-10" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0003" x="6247" y="3438" width="1035" height="1352" frameX="-6" frameY="-10" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0004" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0005" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0006" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0007" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0008" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0009" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0010" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0011" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0012" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0013" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0014" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0015" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0016" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0017" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0018" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0019" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick right0020" x="0" y="5039" width="1035" height="1353" frameX="0" frameY="-9" frameWidth="1074" frameHeight="1362"/>
+	<SubTexture name="Lick up0000" x="1035" y="5039" width="1277" height="1633" frameX="-1" frameY="0" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0001" x="1035" y="5039" width="1277" height="1633" frameX="-1" frameY="0" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0002" x="2312" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0003" x="2312" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0004" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0005" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0006" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0007" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0008" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0009" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0010" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0011" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0012" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0013" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0014" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0015" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0016" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0017" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0018" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0019" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+	<SubTexture name="Lick up0020" x="3590" y="5039" width="1278" height="1599" frameX="0" frameY="-34" frameWidth="1278" frameHeight="1633"/>
+</TextureAtlas>
